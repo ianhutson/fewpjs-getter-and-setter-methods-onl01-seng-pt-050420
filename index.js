@@ -3,7 +3,7 @@ const pi = Math.PI
 class Circle {
   constructor(radius)
 {
-  this.side=side;
+  this.radius=radius;
 }
   get radius()
   return `${this.side} 
