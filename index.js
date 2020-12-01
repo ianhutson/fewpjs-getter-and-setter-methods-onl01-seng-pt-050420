@@ -1,7 +1,7 @@
 // Add your Circle class here
 const pi = Math.PI
 class Circle {
-  constructor(side)
+  constructor(radius)
 {
   this.side=side;
 }
